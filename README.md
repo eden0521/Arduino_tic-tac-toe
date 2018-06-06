@@ -2,6 +2,7 @@
 Hachthron Project June
 
 作品名稱：井字遊戲
+
 作品介紹：
 使用 NeoPixel LED 燈泡當作井字遊戲的九宮格，並透過藍牙模組 HC-05，用手機來遠端控制 LED 燈。
 
